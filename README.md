@@ -2,6 +2,12 @@
 
 This programme was made to organise a list of IPs and Gamertags in which I have obtained and will let a user, **add**, **delete** or **update** rows or selected columns via **ids**. All in all it is a useful way of **finding or collecting data** with a clean, easy to work with interface.
 
+## Install
+To install the programme and get it to run successfully you will need to:
+>**Run ```python3 pip install -r requirements.txt``` to install the dependencies for this programme.**
+
+>**You will also need to create a environment file so that you can connect to your SQL database as one will not be provided but, a sample will be below.**
+
 
 ## File System
 
