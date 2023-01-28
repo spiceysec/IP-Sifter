@@ -7,6 +7,11 @@ To install the programme and get it to run successfully you will need to:
 >**Run ```python3 pip install -r requirements.txt``` to install the dependencies for this programme.**
 
 >**You will also need to create a environment file so that you can connect to your SQL database as one will not be provided but, a sample will be below.**
+>
+>mysql_host=ip/loopback_here
+mysql_user=db_username_here
+mysql_pass=db_password_here
+mysql_db=db_name_here
 
 
 ## File System
