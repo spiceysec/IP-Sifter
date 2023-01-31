@@ -39,3 +39,9 @@ A[main.py] --> B(Docker) --> C(MySQL Container)--> D((Data))
 D --> A
 ```
 >**This programme has an incredibly simple flow and can easily be understood by anyone.**
+
+![image](https://user-images.githubusercontent.com/79791626/215756848-49ca0873-f19b-4eeb-85ff-494eaa733f4e.png)
+![image](https://user-images.githubusercontent.com/79791626/215756925-eddc9bd8-92b8-4a24-b20b-2a0606436458.png)
+![image](https://user-images.githubusercontent.com/79791626/215756974-7c4ec6fc-25f9-4333-bd51-13e01afab519.png)
+![image](https://user-images.githubusercontent.com/79791626/215757015-da842f5a-b6ae-4869-b5e1-303fa281c0e7.png)
+
